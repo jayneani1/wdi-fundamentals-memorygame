@@ -1,5 +1,20 @@
 # wdi-fundamentals-memorygame
 
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Memory Card Game</title>
+		<link href="https://fonts.googleapis.com/css?family=Droid+Serif|Raleway:400,500,600,700" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+	</head>
+	
+<body>
+<header>
+	<h1> Memory Game</h1>
+</header>
+<nav>
+	<a href="#">Instructions</a>
 <a href="#">Game</a>
 </nav>
 <main>
